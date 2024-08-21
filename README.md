@@ -7,7 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Abot Program
-Nexa Web Developer Recruitment
-📱 Mockup: https://whimsical.com/website-developer-2024-B2GW7qAuxvV6ataQoEXKwH
-🚀 API: https://whimsical.com/website-developer-2024-8Z6ToWAXveM2kJNq7yyP1k@2bsEvpTYFZsxPWcUiSTofGDRmKBxmuAnB7U
+# Abot Program
+
+## Nexa Web Developer Recruitment
+
+### 📱 Mockup
+
+View the project mockup [here](https://whimsical.com/website-developer-2024-B2GW7qAuxvV6ataQoEXKwH).
+
+### 🚀 API
+
+Access the API documentation [here](https://whimsical.com/website-developer-2024-8Z6ToWAXveM2kJNq7yyP1k@2bsEvpTYFZsxPWcUiSTofGDRmKBxmuAnB7U).
