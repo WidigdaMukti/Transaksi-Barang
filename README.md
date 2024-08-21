@@ -9,7 +9,7 @@
 
 # Abot Program
 
-## Nexa Web Developer Recruitment
+Nexa Web Developer Recruitment
 
 ### 📱 Mockup
 
